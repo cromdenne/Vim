@@ -40,6 +40,9 @@ Increase Vim command history
 ##### [tabstop, shiftwidth, expandtab](http://vim.wikia.com/wiki/Converting_tabs_to_spaces)
 Set tabs to two spaces, use spaces instead of tabs
 
+##### [autoindent, smartindent](https://www.cs.oberlin.edu/~kuperman/help/vim/indenting.html)
+Automatically indent for spaces and bracket alignment
+
 ##### [hlsearch](http://vim.wikia.com/wiki/Highlight_all_search_pattern_matches)
 Highlight all search matches
 

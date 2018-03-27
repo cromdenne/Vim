@@ -11,6 +11,8 @@ set history=100
 set tabstop=2
 set shiftwidth=2
 set expandtab
+set autoindent
+set smartindent
 set hlsearch
 set showmatch
 set laststatus=2
