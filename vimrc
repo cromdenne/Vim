@@ -13,6 +13,7 @@ set shiftwidth=2
 set expandtab
 set autoindent
 set smartindent
+set filetype indent on
 set hlsearch
 set showmatch
 set laststatus=2
