@@ -1,5 +1,6 @@
 execute pathogen#infect()
 filetype on
+filetype indent on
 syntax on
 colorscheme happy_hacking
 set guifont=Menlo\ Regular:h18
@@ -13,7 +14,6 @@ set shiftwidth=2
 set expandtab
 set autoindent
 set smartindent
-set filetype indent on
 set hlsearch
 set showmatch
 set laststatus=2
